@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Main {
+public class NumberBaseBall {
 
     static String ans; //정답
     public static void main(String[] args) {
